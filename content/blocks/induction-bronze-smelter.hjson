@@ -4,7 +4,7 @@ description: Creates bronze from tin and copper.
 size: 2
 hasPower: true
 hasItems: true
-craftTime: 5
+craftTime: 25
 updateEffect: smeltsmoke
 consumes: {
   power: 0.5
