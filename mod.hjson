@@ -2,5 +2,5 @@ name: "additions-mod"
 displayName: "[orange]Addition Resources[gold] Mod" //what displays in the mod selection menu
 author: "KLOD"
 description: "A simple mod. Adds new ores, materials, blocks, turrets, units."
-version: "0.1"
+version: "0.2"
 minGameVersion: "103"
