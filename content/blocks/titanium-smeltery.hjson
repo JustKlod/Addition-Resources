@@ -6,7 +6,7 @@ size: 2
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 10
+craftTime: 30
 updateEffect: smeltsmoke
 consumes: {
   power: 0.6
@@ -17,7 +17,7 @@ consumes: {
   }
   liquid: {
     liquid: slag
-    amount: 1
+    amount: 0.2
   }
 }
 requirements: [
