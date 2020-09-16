@@ -1,6 +1,6 @@
 name: "additions-mod"
-displayName: "[orange]Titanium Chunk[gold] Mod" //what displays in the mod selection menu
+displayName: "[orange]Addition Resources[gold] Mod" //what displays in the mod selection menu
 author: "KLOD"
-description: "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]"
-version: "3.2"
+description: "A simple mod. Adds new ores, materials, blocks, turrets, units."
+version: "0.1"
 minGameVersion: "103"
