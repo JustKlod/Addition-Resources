@@ -1,0 +1,5 @@
+type: material
+name: Bronze
+description: Not a rare resource.
+cost: 2
+color: ffffff

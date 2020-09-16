@@ -1,0 +1,5 @@
+type: material
+name: Titanium Chunk
+description: A chunk of titanium.
+cost: 2.5
+color: dcd16b

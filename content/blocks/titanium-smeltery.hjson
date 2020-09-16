@@ -1,0 +1,32 @@
+type: GenericSmelter
+name: Titanium Sifter
+description: Uses titanium chunks and slag to create titanium.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 10
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.6
+  items: {
+    items: [
+      titanium-chunk/4
+    ]
+  }
+  liquid: {
+    liquid: slag
+    amount: 1
+  }
+}
+requirements: [
+  copper/75
+  lead/50
+  silicon/60
+]
+category: crafting
+research: titanium-sifter
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: titanium/1
